@@ -87,7 +87,7 @@ Future analysis could evaluate these smaller aircraft to guide recommendations f
 Below is an interactive Dashboard of my  Aviation accidents analysis
 
 
-![tableau dashboard for aviation accidents](./images/Aviation%20accidents%20Dashboard.png)
+[![tableau dashboard for aviation accidents](./images/Aviation%20accidents%20Dashboard.png)](https://public.tableau.com/views/Aviationviz_17594164483220/AviationaccidentsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 For a full view of the visualization :
