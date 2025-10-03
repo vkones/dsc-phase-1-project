@@ -84,14 +84,15 @@ Future analysis should evaluate these smaller aircraft to guide recommendations 
 
 ### Tableau Dashboard for Aviation Accidents
 
-Below is an interactive Dashboard of my  Aviation accidents analysis
+Below is a Dashboard of my  Aviation accidents analysis
+For a full view of the Dashboard:
+[Aviation.viz](https://public.tableau.com/views/Aviationviz_17594164483220/AviationaccidentsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 [![tableau dashboard for aviation accidents](./images/Aviation%20accidents%20Dashboard.png)](https://public.tableau.com/views/Aviationviz_17594164483220/AviationaccidentsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
-For a full view of the visualization :
-[tableau](https://public.tableau.com/views/Aviationviz_17594164483220/AviationaccidentsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 
 ## Repository Structure
