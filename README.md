@@ -100,8 +100,9 @@ For a full view of the visualization :
 ```
 ├── data                          
 ├── images
-├── DS_Project_Presentation.pdf         
-├── README.md                               
+├── .gitignore        
+├── Presentation.pdf
+├── README.md                             
 └── student.ipynb                           
 ```
 
