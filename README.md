@@ -59,7 +59,7 @@ Charting the top 10 most popular aircrafts with their survival rates showed that
 
 ![survival_rates](./images/Survival%20rate.png)
 
-When analysing aircraft damage(whether total,substantial or minor) by make. We find that a large % of the accidents result in substantial aircraft damage. Boeing has the least percentage of total damage vs minor and substantial.
+When analysing aircraft damage(whether total,substantial or minor) by make. We find that a large % of the accidents result in substantial aircraft damage. Boeing has the least percentage of total damage vs minor vs substantial.
 
 ![Damage_type](./images/Damage.png)
 
@@ -73,13 +73,13 @@ When analysing aircraft damage(whether total,substantial or minor) by make. We f
 
 This analysis leads to three recommendations regarding types of aircrafts the company should use:-
 
-* Recommendation One: The company should prioritize aircraft with Reciprocating Engines or Turbo Fan Engines, as these engine types are associated with the lowest fatality rates—approximately 18% fatal and 80% non-fatal.
+* Recommendation One: The company should prioritize aircraft makes with Reciprocating Engines or Turbo Fan Engines, as these engine types are associated with the lowest fatality rates—approximately 18% fatal and 80% non-fatal.
 * Recommendation Two: Among the top 10 aircraft makes, survival rates are generally high and fairly similar. However, I recommend Boeing, which has the highest survival rate at 94%, or Hughes, with a survival rate of 93%.
-* Recommendation Three: Boeing appears to be the sturdiest aircraft, as it has the lowest proportion of destroyed aircraft at 11%
+* Recommendation Three: Boeing appears to be the sturdiest aircraft, as it has the lowest proportion of destroyed aircrafts at 11%
                      
-Project Limitations- I focused on the top 10 most popular aircraft models to simplify the analysis and highlight larger, commercial-use planes, as including all 6,932 makes would have been unwieldy and could skew survival rates due to very small aircraft. While this provides useful insights for high-capacity aircraft, it does not fully address risks for smaller planes, which are common in private aviation. 
+Project Limitations- I focused on the top 10 most popular aircraft models to simplify the analysis and highlight larger, commercial-use planes, as including all 6,932 makes would have been unwieldy and could skew survival rates towards very small aircrafts which had 2 or 3 passengers. While this provides useful insights for high-capacity aircrafts, it does not fully address risks for smaller planes, which are common in private aviation. 
 
-Future analysis could evaluate these smaller aircraft to guide recommendations for private or niche markets.
+Future analysis should evaluate these smaller aircraft to guide recommendations for private enterprises or niche markets.
 ***
 
 ### Tableau Dashboard for Aviation Accidents
@@ -90,12 +90,12 @@ Below is an interactive Dashboard of my  Aviation accidents analysis
 [![tableau dashboard for aviation accidents](./images/Aviation%20accidents%20Dashboard.png)](https://public.tableau.com/views/Aviationviz_17594164483220/AviationaccidentsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
-
+For a full view of the visualization :
+[tableau](https://public.tableau.com/views/Aviationviz_17594164483220/AviationaccidentsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ## Repository Structure
 
-Describe the structure of your repository and its contents, for example:
 
 ```
 ├── data                          
